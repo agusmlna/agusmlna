@@ -1,8 +1,6 @@
 # 👋 Hello Everyone!
 
-My name is **Agus Maulana**. I am currently working as a junior full stack web developer using laravel framework and MySQL database. I also develop mobile apps with Flutter.  
-
----
+My name is **Agus Maulana**. I am currently working as a full stack developer.  
 
 ## 🚀 Languages
 <p>
