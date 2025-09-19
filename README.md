@@ -9,8 +9,8 @@ I usually work with **Laravel, MySQL, and JavaScript**, and I also explore **mob
 ## 📊 GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agus-suga&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agus-suga&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agusmlna&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusmlna&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
