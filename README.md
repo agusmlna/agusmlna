@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Agus Suga
+# Hi 👋, I'm Agus Maulana
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=IT+System+Developer;Full+Stack+Web+Developer;Laravel+%7C+PHP+%7C+JavaScript;Flutter+Developer;Always+Learning+New+Things"
